@@ -7,3 +7,6 @@ Utilizando funções e crie um quiz com perguntas de sua preferência. Você dev
 
 ### Resposta 
 ![Captura de tela 2024-05-28 174635](https://github.com/euvinao/desafio21e22/assets/145941382/f47efcae-6616-447e-b07c-fbcb16589130)
+
+
+Para o código utilizei a estrutura utilizada na aula passada para fixar e entender as funções.
